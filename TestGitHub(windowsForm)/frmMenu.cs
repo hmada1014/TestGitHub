@@ -15,7 +15,6 @@ namespace TestGitHub_windowsForm_
         public frmMenu()
         {
             InitializeComponent();
-            int x ;
         }
     }
 }
