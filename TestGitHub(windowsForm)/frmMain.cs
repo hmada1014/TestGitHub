@@ -21,9 +21,9 @@ namespace TestGitHub_windowsForm_
         {
             frmMenu frmMenu = new frmMenu();
 
-            frmMenu.Show();
+            frmMenu.ShowDialog();
 
-            this.Close();
+          
         }
     }
 }
