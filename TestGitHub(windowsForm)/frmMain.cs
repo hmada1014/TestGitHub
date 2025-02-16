@@ -17,6 +17,13 @@ namespace TestGitHub_windowsForm_
             InitializeComponent();
         }
 
-       
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmMenu frmMenu = new frmMenu();
+
+            frmMenu.Show();
+
+            this.Close();
+        }
     }
 }
