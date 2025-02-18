@@ -23,6 +23,8 @@ namespace TestGitHub_windowsForm_
 
             frmMenu.ShowDialog();
 
+            int x;
+
           
         }
     }
